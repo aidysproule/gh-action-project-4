@@ -1,4 +1,4 @@
-name: test Project
+name: Manual Build
 on: workflow_dispatch
 jobs:
   lint:
