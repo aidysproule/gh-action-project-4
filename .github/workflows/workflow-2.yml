@@ -15,4 +15,4 @@ jobs:
       - name: Build Project
         run: npm run build
       - name: Deploy Project
-        run: npm run build
+        run: echo "Deploying... Done!"
